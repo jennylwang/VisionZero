@@ -10,8 +10,10 @@ Middle
 
 To take it one step further, the middle scenario will break the data down into precincts.  The map will be divided by precincts, and the popup will show the data from that precinct.  Precincts with obvious contrast – such as a high rate of collision combined with a low rate of summons issued – will be highlighted in red.  The rest of the precincts will be in blue.   
 
-w
+![This is an image of my middle scenario](https://raw.githubusercontent.com/jennylwang/VisionZero/master/Images/middle.JPG)
+
 Reach
 
 There will be a mobile version of the map.  To make viewing easier on the smaller screen, the app will not have maps.  Instead, there will be a list of precincts, grouped together by their districts.  The user can click on the precinct name to see all of its data.  Additionally, interactive quotes (designed like the ones from Guardian’s heroin project) will be added to show different New Yorker’s experiences with traffic.    
 
+![This is an image of my reach scenario](https://raw.githubusercontent.com/jennylwang/VisionZero/master/Images/reach.JPG)
